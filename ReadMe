@@ -1,1 +1,1 @@
-The end-to-end code to create a customized ChatBot Using OpenAI's LLMs as part of the Large Language Models (LLMs) & Text Generation program of Udacity.
+The project involves developing end-to-end code to create a customized ChatBot using OpenAI's Large Language Models (LLMs) and a Retrieval-Augmented Generation (RAG) mechanism. This work is part of the Large Language Models (LLMs) & Text Generation program offered by Udacity, where the focus is on building advanced applications using LLMs and integrating retrieval mechanisms to enhance the chatbot's capabilities.
