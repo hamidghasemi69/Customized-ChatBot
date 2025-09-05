@@ -13,6 +13,7 @@ This project demonstrates the development of a customized ChatBot leveraging Ope
 - **Framework**: Built using Python, OpenAI's API, and relevant libraries for data retrieval and processing.
 - **Integration**: Combines LLMs with external knowledge sources to improve response accuracy and relevance.
 
+
 ---
 
 ## Repository Structure
