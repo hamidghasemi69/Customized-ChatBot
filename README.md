@@ -8,9 +8,9 @@ This project demonstrates the development of a customized ChatBot leveraging Ope
 
 ## Project Overview
 
-- **`Objective`**: Build a customized ChatBot that utilizes OpenAI's LLMs and a RAG mechanism to provide enhanced conversational abilities.
+- **`Objective`**: Build a customized ChatBot that utilizes OpenAI's LLMs and a `RAG` mechanism to provide enhanced conversational abilities.
 - **`Dataset`**: Utilizes a curated set of documents and knowledge sources to augment the chatbot's responses.
-- **`Framework`**: Built using Python, OpenAI's API, and relevant libraries for data retrieval and processing.
+- **`Framework`**: Built using Python, `OpenAI's API`, and relevant libraries for data retrieval and processing.
 - **`Integration`**: Combines LLMs with external knowledge sources to improve response accuracy and relevance.
 
 ---
