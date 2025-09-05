@@ -25,6 +25,7 @@ This project demonstrates the development of a customized ChatBot leveraging Ope
 ## Running the Notebook
 
 1. Clone the repository:
+   
    `git clone https://github.com/hamidghasemi69/Customized-ChatBot.git`
    
    `cd Customized-ChatBot`
